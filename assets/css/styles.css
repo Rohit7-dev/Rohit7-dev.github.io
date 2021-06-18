@@ -160,6 +160,10 @@ img{
 }
 
 /*==================== LAYOUT ====================*/
+.body{
+    background-color: pink;
+    color: pink;
+}
 .container{
     max-width: 768px;
     margin-left: var(--mb-1-5);
